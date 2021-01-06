@@ -1,5 +1,7 @@
 <?php
 
+$idade = 21;
 
-// php olamundo.php
-echo "Aaaaaa";
+echo "Olá mundo!";
+
+echo "Eu tenho $idade anos.";
